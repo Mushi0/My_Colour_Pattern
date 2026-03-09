@@ -2,16 +2,16 @@
 
 I created this little tool to use while painting and choosing colour patterns
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <figure style="text-align:center;">
-    <img src="images/colour_ryb.png" width="300">
-    <figcaption style="text-align:center;">RYB Colour Wheel</figcaption>
-  </figure>
-  <figure style="text-align:center;">
-    <img src="images/colour_rgb.png" width="300">
-    <figcaption style="text-align:center;">RGB Colour Wheel</figcaption>
-  </figure>
-</div>
+<figure style="text-align:center;">
+  <img src="images/colour_ryb.png" width="300">
+  <figcaption style="text-align:center;">RYB Colour Wheel</figcaption>
+</figure>
+<figure style="text-align:center;">
+  <img src="images/colour_rgb.png" width="300">
+  <figcaption style="text-align:center;">RGB Colour Wheel</figcaption>
+</figure>
+
+---
 
 - The wheel has both RGB and RYB modes, changeable by toggle the button. 
 - The pattern shows from inner to outer layers: 
